@@ -12,7 +12,7 @@ Every business needs reliable and accurate information in order to make the best
 
 ### Big Picture
 
->![Fig1.png: Bubble chart showing ride-sharing data](analysis/Fig1.png)
+>![Fig1.png: Bubble chart showing ride-sharing data](analysis/Fig1.png#gh-light-mode-only)\
 >This bubble chart shows the large difference in the way PyBer is used in different city types. 
 
 ### City Type Differences
