@@ -24,7 +24,7 @@ Looking at the total fare amounts over time it is easy to see that they are fair
 
 ### City Type Differences
 
-<!--Ride sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type--!>
+<!--Ride sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type-->
 
 ### Total Ride Count 
 
@@ -58,7 +58,7 @@ The huge differences between the number of drivers in urban areas compared to su
 
 ## Summary
 
-<!--Three business recommendations to the CEO for addressing any disparities among the city types--!>
+<!--Three business recommendations to the CEO for addressing any disparities among the city types-->
 
 
 Given the lower average fares and high number of drivers in urban cities I would recommend coming up with a way to incentivise drivers to go to those suburban and rural cities. 
