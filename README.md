@@ -23,6 +23,7 @@ This chart shows that PyBer is utilized much more in uban and suburban areas tha
 Looking at the total fare amounts over time it is easy to see that they are fairly consistent over time.
 
 ### City Type Differences
+
 <!--Ride sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type--!>
 
 ### Total Ride Count 
@@ -56,7 +57,9 @@ This box and whisker plot shows just how many more drivers the urban cities have
 The huge differences between the number of drivers in urban areas compared to suburban and rural ones is emphasized in this pie chart. With more than four-fifths of the total number of drivers, urban cities could possibly be oversaturated with drivers.
 
 ## Summary
+
 <!--Three business recommendations to the CEO for addressing any disparities among the city types--!>
+
 
 Given the lower average fares and high number of drivers in urban cities I would recommend coming up with a way to incentivise drivers to go to those suburban and rural cities. 
 
