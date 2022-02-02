@@ -24,7 +24,7 @@ Looking at the total fare amounts over time it is easy to see that they are fair
 ### City Type Differences
 <!--Ride sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type--!>
 
-#### Total Ride Count 
+### Total Ride Count 
 
 >![Fig2.png: Box and whisker plot of ride count data](analysis/Fig2.png)\
 
@@ -34,7 +34,7 @@ Plotting the total number of rides per city, and grouping them by type shows jus
 
 This pie chart shows the differences even more, with the urban cities have almost seventy percent of the total rides on PyBer. Suburban cities have a minor but still large portion at about twenty five percent.
 
-#### Ride Fare Differences
+### Ride Fare Differences
 
 >![Fig3.png: Box and whisker plot of ride fare data](analysis/Fig3.png)\
 
@@ -44,7 +44,7 @@ The average fare amount per city doesn't differ as much between city types, but 
 
 In this pie chart the urban cities again make up the largest percentage. However, the difference is not as large as in the pie chart for total ride count. The higher average fares for the suburban and rural cities is the cause of this difference. 
 
-#### Number of Drivers
+### Number of Drivers
 
 >![Fig4.png: Box and whisker plot of drivers per city, by city type](analysis/Fig4.png)\
 
