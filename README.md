@@ -19,6 +19,7 @@ Every business needs reliable and accurate information in order to make the best
 This chart shows that PyBer is utilized much more in uban and suburban areas than in rural areas. Additionally there are many more drivers per city in urban cities. The average fares in urban cities are lower than in suburban and rural cities, but as we will see later this is more than made up for by the total volume of rides. 
 
 >![Line chart showing total fare by city type](analysis/PyBer_fare_summary.png)\
+
 Looking at the total fare amounts over time it is easy to see that they are fairly consistent over time.
 
 ### City Type Differences
